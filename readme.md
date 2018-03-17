@@ -10,3 +10,9 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
 This is my Personal attempt to complete the JavaScript30 course.
 I have remove all solutions and will be working on it in the fallowing weeks.
+
+### Completed Challenges
+
+* 01 JavaScript Drum Kit
+* 02 JS and CSS Clock
+* 03 CSS Variables
