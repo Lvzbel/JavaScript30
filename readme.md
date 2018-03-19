@@ -16,3 +16,4 @@ I have remove all solutions and will be working on it in the fallowing weeks.
 * 01 JavaScript Drum Kit
 * 02 JS and CSS Clock
 * 03 CSS Variables
+* 04 Array Cardio(Array Methods)
